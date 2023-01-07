@@ -53,6 +53,12 @@ nav ul li a{
 	text-align: center;
 }
 
+.white-box {
+    background-color: white;
+    color: black;
+    <!--other positioning attributes-->
+}
+
 .content h1{
 	font-size: 160px;
 	color: #fff;
